@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="300" viewBox="0 0 130 300">
+  <g id="binance" transform="translate(-140 -3788)">
+    <g id="Group_30" data-name="Group 30">
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="130" height="130" rx="20" transform="translate(140 3788)" fill="#0f122a"/>
+      <g id="Layer_2" data-name="Layer 2" transform="translate(170 3818)">
+        <g id="Layer_1" data-name="Layer 1">
+          <path id="Path_49" data-name="Path 49" d="M21.3,29.276l13.53-13.53L48.372,29.282l7.873-7.873L34.835,0l-21.4,21.4L21.3,29.275M0,34.835l7.873-7.874,7.872,7.872L7.872,42.706Zm21.3,5.56,13.53,13.53L48.372,40.389l7.877,7.869,0,0L34.835,69.67l-21.4-21.4-.011-.011,7.884-7.862m32.619-5.556L61.8,26.965l7.872,7.872L61.8,42.711Z" fill="#f3ba2f"/>
+          <path id="Path_50" data-name="Path 50" d="M979.168,971.179h0l-7.988-7.989-5.9,5.9h0l-.678.679-1.4,1.4-.011.011.011.011,7.982,7.983,7.989-7.989,0,0-.007,0" transform="translate(-936.348 -936.348)" fill="#f3ba2f"/>
+        </g>
+      </g>
+    </g>
+    <line id="Line_4" data-name="Line 4" y2="153" transform="translate(204.5 3933.5)" fill="none" stroke="#0f122a" stroke-linecap="round" stroke-width="3" stroke-dasharray="3 9"/>
+  </g>
+</svg>

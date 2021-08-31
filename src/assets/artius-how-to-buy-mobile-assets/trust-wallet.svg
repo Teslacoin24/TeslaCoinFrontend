@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="369" viewBox="0 0 130 369">
+  <g id="trust-wallet" transform="translate(-140 -3475)">
+    <g id="Group_29" data-name="Group 29">
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="130" height="130" rx="20" transform="translate(140 3475)" fill="#0f122a"/>
+      <path id="Path_68" data-name="Path 68" d="M43.836,14C54.7,23.07,67.151,22.511,70.71,22.511,69.931,74.1,64,63.867,43.836,78.332,23.672,63.867,17.778,74.1,17,22.511,20.521,22.511,32.976,23.07,43.836,14Z" transform="translate(161.118 3493.834)" fill="none" stroke="#3375bb" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6"/>
+    </g>
+    <line id="Line_3" data-name="Line 3" y2="222" transform="translate(204.5 3620.5)" fill="none" stroke="#0f122a" stroke-linecap="round" stroke-width="3" stroke-dasharray="3 9"/>
+  </g>
+</svg>

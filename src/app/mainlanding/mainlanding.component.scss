@@ -1,0 +1,695 @@
+.main {
+    margin-top: 10px;
+
+    .dropdown-menu {
+        background-color: #000000;
+        border: 1px solid #373535;
+        padding: 0;
+        .dropdown-item {
+            color: #f7f7f7;
+            padding: 3px 15px;
+            &:hover {
+                color: #e65e1f;
+                background-color: transparent;
+            }
+        }
+    }
+
+ 
+    .navbar {
+     
+        padding: 5px 0px;
+  
+        .navbar-nav {
+            margin: 0px 0 0 320px;
+          .nav-item {
+              padding: 5px 15px;
+              .nav-link{
+              
+                  font-weight: 600;
+              
+                margin: 0;
+                padding: 0px;
+                display: initial;
+  
+                  &:hover {
+                        color: #3ea323;
+                       
+                        border-bottom: 2px solid;
+                        margin: 0px;
+                  }
+              }
+          }
+        }
+    }
+  }
+
+  .ttt {
+    background-image: url("../../assets/teslaassets/about-the-tesla-coin.svg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 60px 0;
+
+      .main-color {
+        color: #e8252b;
+          margin-bottom: 60px;
+      }
+
+      img {
+          width: 80px;
+      }
+
+      .pt20 {
+          padding: 20px 0;
+      }
+  }
+
+  .artius {
+    background-image: url("../../assets/artius-assets/why-artius.svg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 60px 0;
+
+      .main-color {
+        color: #e8252b;
+          margin-bottom: 60px;
+      }
+
+      img {
+          width: 80px;
+      }
+
+      .pt20 {
+          padding: 20px 0;
+      }
+  }
+
+
+  .features {
+      
+    background-image: url("../../assets/teslaassets/tesla-coin-features.svg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 60px 0;
+    .main-color{
+        color: #e8252b;
+    }
+    p {
+        font-size: 15px;
+        font-weight: 300;
+    }
+    .inner-box {
+        background-color: #242731;
+        padding: 15px 20px;
+        border-radius: 15px;
+        margin-bottom: 10px;
+
+        input {
+            background: #2f323c;
+    border-radius: 13px;
+    border: 1px solid #2f323c;
+    padding: 10px;
+    width: 300px;
+    margin-bottom: 10px;
+        }
+     }
+ 
+      .inner-side {
+          width: 100%;
+        
+         padding: 55px 18px 20px;
+        border-radius: 30px;
+        /* text-align: center; */
+        margin-bottom: 10px;
+        background-color: #FEF1F1;
+        position: relative;
+
+        h3 {
+            font-size: 20px;
+            font-weight: 600;
+        }
+        img {
+    //         width: 90px;
+    //         position: absolute;
+    //         margin-bottom: 15px;
+    // left: 0;
+    // top: -55px;
+        }
+      }
+  }
+
+  .howtobuy {
+    background-image: url("../../assets/teslaassets/how-to-buy.svg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 60px 0;
+
+    .nav-tabs {
+        width: 100%;
+    justify-content: center;
+    margin: 50px 0 0;
+    }
+
+    .two {
+        width: 450px;
+        margin: 0 auto;
+        display: inherit;
+    }
+
+    p {
+        font-size: 14px;
+    }
+    h5 {
+        font-size: 18px;
+    }
+  }
+
+  .docs {
+    background-image: url("../../assets/teslaassets/tesla-documents.svg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 60px 0;
+  }
+  .com {
+      
+    background-image: url("../../assets/teslaassets/tesla-community.svg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 60px 0 0px;
+    a.main-color {
+        color: #000;
+    }
+    p {
+        font-size: 15px;
+        font-weight: 300;
+    }
+    .inner-box {
+        background-color: #242731;
+        padding: 15px 20px;
+        border-radius: 15px;
+        margin-bottom: 10px;
+
+        input {
+            background: #2f323c;
+    border-radius: 13px;
+    border: 1px solid #2f323c;
+    padding: 10px;
+    width: 300px;
+    margin-bottom: 10px;
+        }
+     }
+ 
+      .inner-side {
+        padding: 25px;
+        border-radius: 30px;
+        margin-bottom: 10px;
+        background-color: #e8e8eb;
+        position: relative;
+        img {
+            width: 30px;
+        }
+
+        h3 {
+            font-size: 18px;
+            font-weight: 600;
+        }
+      }
+  }
+  .ourteam {
+    background-image: url("../../assets/teslaassets/key-people-bg.svg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 60px 0;
+  }
+
+  .helo {
+    background-color: #f7f7f7;
+    margin: 60px 0;
+
+    .ptb20 {
+        padding-top: 20px;
+    }
+
+    .bee {
+        
+  //  background-image: url("../../assets/artius-assets/bee.svg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    }
+    .david {
+        
+        //background-image: url("../../assets/artius-assets/david.svg");
+        background-position: left;
+        background-repeat: no-repeat;
+        background-size: contain;
+        }
+
+        .r {
+        
+         //   background-image: url("../../assets/artius-assets/raphael.svg");
+            background-position: left;
+            background-repeat: no-repeat;
+            background-size: contain;
+            }
+  }
+  
+
+.main-banner {
+    background-image: url("../../assets/teslaassets/header-background.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+   // height: 100vh;
+    .inner-box{
+        margin: 150px 20px;
+    }
+    .pt20 {
+        padding-top: 20px;
+    }
+
+    .inner-icons {
+        ul {
+            margin: 10px 0 0;
+
+            li {
+                margin-right: 15px;
+            }
+        }
+    }
+
+    .for-m {
+        margin-bottom: 150px;
+    }
+
+    h2,p {
+        margin-bottom: 75px;
+    }
+
+}
+
+.navbar-nav {
+
+        
+        
+    li {
+        padding: 0 5px;
+        .active {
+            border-bottom: 1px solid #fff;
+            color: #fff;
+        }
+        a {
+            font-size: 16px;
+            color: #000000;
+            cursor: pointer;
+            border-bottom: 1px solid transparent;
+            font-weight: bold;
+            &:hover,.active {
+                border-bottom: 1px solid #fff;
+                color: red;
+            }
+        }
+    }
+}
+
+.for-new {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #fff;
+    background-color: #292b27;
+    background-clip: padding-box;
+    border: 1px solid #292b27;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.inner-boxy {
+    border-radius: 30px;
+    background: #0f122a;
+    color: #fff;
+    padding: 20px;
+    margin: 100px 0;
+
+    img {
+        height: 30px;
+margin-top: 40px;
+    }
+    .inner-style {
+        // padding: 10px;
+        li.list-inline-item {
+            background-color: #12152e;
+            padding: 10px;
+            color: #fff;
+            // padding: 10px;
+            border-radius: 6px;
+            a{
+                cursor: pointer;
+            }
+        }
+
+        .for-input {
+            background: rgba(249, 145, 48, 0.3);
+            border: 1px solid #f99130;
+            color: #fff;
+            height: 45px;
+            border-radius: 13px;
+            margin-bottom: 10px;
+        }
+
+    }
+
+    .list-inline {
+        li.list-inline-item {
+            
+            h2 {
+                font-size: 56px;
+            }
+        }
+    }
+
+}
+
+
+
+.inner-counter {
+    padding: 0 50px 0 0;
+    span {
+        font-size: 10px;
+font-weight: 400;
+    }
+
+    h4 {
+        font-weight: 700;
+    }
+}
+
+
+.roadmap {
+    background-color:#fdeaea;
+    .backg{
+        background-image: url("../../assets/teslaassets/tesla-roadap.svg");
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: contain;
+        //margin: 60px 0;
+    }
+    // background-image: url("../../assets/artius/roadmap-bg.png");
+    // background-position: top;
+    // background-repeat: no-repeat;
+    // background-size: cover;
+    // margin: 60px 0;
+    // overflow: hidden;
+    .img-fluid{
+        margin: auto;
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+}
+
+.footer {
+ //   background-image: url("../../assets/artius/footer-bg.png");
+    background-color: #e8252b;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+
+    p {
+        font-weight: 300;
+    }
+
+    span {
+        display: inline-block;
+        margin: 0 auto 30px;
+        width: 200px;
+        background-color: #0ca0d5;
+        height: 5px;
+        border-radius: 20px;
+    }
+
+    .inner-logo {
+        p {
+            margin-top: 80px;
+        }
+    }
+    .inner-nav {
+        ul {
+            padding: 0;
+            margin: 0;
+
+            a {
+                cursor: pointer !important;
+            }
+        }
+    }
+}
+
+
+@media only screen and (max-width: 600px) { 
+    .navbar-toggler {
+        padding: .25rem .75rem;
+        font-size: 1.25rem;
+        line-height: 1;
+        background-color: #0ca0d5;
+        border: 1px solid transparent;
+        border-radius: .25rem;
+        transition: box-shadow .15s ease-in-out;
+    
+        &:focus {
+            outline: none;
+            box-shadow: none;
+        }
+    } 
+    .style-bar {
+        width: 35px;
+        height: 3px;
+        background-color: #fff;
+        margin: 6px 0;
+        border-radius: 4px;
+    }
+
+    .com {
+      
+        background-image: url("../../assets/teslaassets/tesla-community.svg");
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin: 60px 0 0px;
+        p {
+            font-size: 15px;
+            font-weight: 300;
+        }
+        .inner-box {
+            background-color: #242731;
+            padding: 15px 20px;
+            border-radius: 15px;
+            margin-bottom: 10px;
+    
+            input {
+                background: #2f323c;
+        border-radius: 13px;
+        border: 1px solid #2f323c;
+        padding: 10px;
+        width: 300px;
+        margin-bottom: 10px;
+            }
+         }
+     
+          .inner-side {
+            padding: 25px;
+            border-radius: 30px;
+            text-align: center;
+            margin-bottom: 10px;
+            background-color: #e8e8eb;
+            position: relative;
+            img {
+                width: 30px;
+            }
+    
+            h3 {
+                font-size: 18px;
+                font-weight: 600;
+            }
+          }
+      }
+
+    .footer {
+        background-image: url("../../assets/artius/footer-bg.png");
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: #fff;
+        text-align: center;
+        p {
+            font-weight: 300;
+        }
+    
+        span {
+            display: inline-block;
+            margin: 20px auto 20px;
+            width: 200px;
+            background-color: #0ca0d5;
+            height: 5px;
+            border-radius: 20px;
+        }
+    
+        .inner-logo {
+            p {
+                margin-top: 10px;
+            }
+        }
+        .inner-nav {
+            ul {
+                padding: 0;
+                margin: 0;
+            }
+        }
+    }
+
+    .howtobuy {
+        background-image: url("../../assets/teslaassets/how-to-buy.svg");
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin: 60px 0;
+    
+        .nav-tabs {
+            width: 100%;
+        justify-content: center;
+        margin: 50px 0 0;
+        }
+    
+        .two {
+            width: auto;
+            margin: 0 auto;
+            display: inherit;
+        }
+    
+        p {
+            font-size: 14px;
+        }
+        h5 {
+            font-size: 18px;
+            margin-top: 20px;
+        }
+      }
+
+    .features {
+      
+        background-image: url("../../assets/teslaassets/tesla-coin-features.svg");
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin: 60px 0;
+        p {
+            font-size: 15px;
+            font-weight: 300;
+        }
+        .inner-box {
+            background-color: #242731;
+            padding: 15px 20px;
+            border-radius: 15px;
+            margin-bottom: 10px;
+    
+            input {
+                background: #2f323c;
+        border-radius: 13px;
+        border: 1px solid #2f323c;
+        padding: 10px;
+        width: 300px;
+        margin-bottom: 10px;
+            }
+         }
+     
+          .inner-side {
+            padding: 20px 18px 20px;
+            border-radius: 30px;
+            text-align: center;
+            margin-bottom: 10px;
+            background-color: #e8e8eb;
+            position: relative;
+    
+            h3 {
+                font-size: 20px;
+                font-weight: 600;
+            }
+            img {
+                width: 120px;
+                position: unset;
+                margin-bottom: 15px;
+        left: 0;
+        top: -55px;
+            }
+          }
+      }
+
+      .docs {
+        background-image: url("../../assets/teslaassets/tesla-documents.svg");
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin: 60px 0;
+
+        img {
+            margin-bottom: 15px;
+        }
+      }
+}
+// for ipad 
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  { 
+
+}
+
+
+// for phones {
+    @media (min-device-width:320px) and (max-device-width:768px) {
+    
+    }
+
+    .animated {
+        -webkit-animation-duration: 3s;
+        animation-duration: 3s;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+    }
+    .fadeInLeft {
+        -webkit-animation-name: fadeInLeft;
+        animation-name: fadeInLeft;
+    }
+
+    .fadeInright {
+        -webkit-animation-name: fadeInright;
+        animation-name: fadeInright;
+        animation-iteration-count: inherit!important;
+        animation-delay: initial!important;
+    }
+
+    video {
+        max-width: 100%;
+        height: auto;
+      }
+
+
+      @media (min-width: 992px){
+        .navbar-expand-lg .navbar-collapse {
+                display: flex !important;
+                flex-basis: auto;
+                margin: 0 20px;
+        }
+    
+}
